@@ -1,0 +1,4 @@
+interface:
+  display_name: "Starryear 三图成卷"
+  short_description: "三张佛教原图经荒诞尺度、非重复解构与法语三形标识组成一幅总图"
+  default_prompt: "Use $starryear-three-photo-pop-collage to turn my three Buddhist photographs into one surreal editorial sheet with a source-derived three-part minimalist logo and artistic French in the central negative space."
